@@ -8,7 +8,7 @@ Requirements
 - Python 2.7 or 3.4+
 - virtualenv
 - git (for cloning this repository)
-- MySQL
+- MySQL (with Python support)
 
 Installation
 ------------
